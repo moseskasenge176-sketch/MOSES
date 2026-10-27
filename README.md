@@ -1,2 +1,1 @@
-# MOSES
-COMPUTER NETWORKING 
+Networking basics 
